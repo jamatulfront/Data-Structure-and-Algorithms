@@ -1,5 +1,5 @@
 
-# Popular Data Structure Implementation in Javascript
+# Popular Data Structures Implementation in Javascript
 
 In this repo i tried to implement some basic and common Data Structure
 that are used in Programming.
